@@ -1,2 +1,0 @@
-# cob.edu
-cob edu
